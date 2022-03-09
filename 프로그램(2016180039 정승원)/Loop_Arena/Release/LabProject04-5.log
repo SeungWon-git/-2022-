@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Camera.cpp
+  GameFramework.cpp
+  Loop_Arena.cpp
+  Mesh.cpp
+  Object.cpp
+  Player.cpp
+  Scene.cpp
+  Shader.cpp
+  Timer.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 405 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  LabProject04-5.vcxproj -> C:\Users\seung\Desktop\Loop_Arena\Release\LabProject04-5.exe
